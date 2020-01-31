@@ -1,0 +1,5 @@
+def add(a, c):
+	return a + c
+
+def test_testmethod():
+	assest add(5, 3) == 8
